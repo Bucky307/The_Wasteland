@@ -1,0 +1,25 @@
+Bat.~15
+Rat on a String.~15
+Spiked Boots.~10
+Pocket Knife.~05
+Floppy Disk.~03
+Flail.~15
+javelin.~12
+Healing Medicine.-12
+Healing Herb.-10
+Healing Shrooms.-08
+Used Syringe.-09
+Penicilin.-14
+Blood.-07
+Beans.*10
+Berries.*05
+Happy Meal.*16
+Chili.*10
+Flesh.*08
+Moldy Bread.*04
+Pure Water.^15
+Boiled Water.^10
+Dirty Water.^05
+Jungle Juice.^08
+Spoiled Milk.^06
+Tequila.^12

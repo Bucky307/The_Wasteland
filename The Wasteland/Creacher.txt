@@ -1,0 +1,10 @@
+rat
+opossum
+beaver
+bear
+dog
+bobcat
+frog
+snake
+mosquito
+skunck

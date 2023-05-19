@@ -1,0 +1,31 @@
+C:\Users\270045132\source\repos\The Wasteland\The Wasteland\bin\Debug\The Wasteland.exe.config
+C:\Users\270045132\source\repos\The Wasteland\The Wasteland\bin\Debug\The Wasteland.exe
+C:\Users\270045132\source\repos\The Wasteland\The Wasteland\bin\Debug\The Wasteland.pdb
+C:\Users\270045132\source\repos\The Wasteland\The Wasteland\obj\Debug\The Wasteland.csprojAssemblyReference.cache
+C:\Users\270045132\source\repos\The Wasteland\The Wasteland\obj\Debug\The_Wasteland.PlayBoard.resources
+C:\Users\270045132\source\repos\The Wasteland\The Wasteland\obj\Debug\The_Wasteland.Properties.Resources.resources
+C:\Users\270045132\source\repos\The Wasteland\The Wasteland\obj\Debug\The Wasteland.csproj.GenerateResource.cache
+C:\Users\270045132\source\repos\The Wasteland\The Wasteland\obj\Debug\The Wasteland.csproj.CoreCompileInputs.cache
+C:\Users\270045132\source\repos\The Wasteland\The Wasteland\obj\Debug\The Wasteland.exe
+C:\Users\270045132\source\repos\The Wasteland\The Wasteland\obj\Debug\The Wasteland.pdb
+D:\Wasteland New Copy\The Wasteland\The Wasteland\bin\Debug\The Wasteland.exe.config
+D:\Wasteland New Copy\The Wasteland\The Wasteland\bin\Debug\The Wasteland.exe
+D:\Wasteland New Copy\The Wasteland\The Wasteland\bin\Debug\The Wasteland.pdb
+D:\Wasteland New Copy\The Wasteland\The Wasteland\obj\Debug\The Wasteland.csprojAssemblyReference.cache
+D:\Wasteland New Copy\The Wasteland\The Wasteland\obj\Debug\The_Wasteland.PlayBoard.resources
+D:\Wasteland New Copy\The Wasteland\The Wasteland\obj\Debug\The_Wasteland.Properties.Resources.resources
+D:\Wasteland New Copy\The Wasteland\The Wasteland\obj\Debug\The Wasteland.csproj.GenerateResource.cache
+D:\Wasteland New Copy\The Wasteland\The Wasteland\obj\Debug\The Wasteland.csproj.CoreCompileInputs.cache
+D:\Wasteland New Copy\The Wasteland\The Wasteland\obj\Debug\The Wasteland.exe
+D:\Wasteland New Copy\The Wasteland\The Wasteland\obj\Debug\The Wasteland.pdb
+E:\Wasteland New Copy\The Wasteland\The Wasteland\bin\Debug\The Wasteland.exe.config
+E:\Wasteland New Copy\The Wasteland\The Wasteland\bin\Debug\The Wasteland.exe
+E:\Wasteland New Copy\The Wasteland\The Wasteland\bin\Debug\The Wasteland.pdb
+E:\Wasteland New Copy\The Wasteland\The Wasteland\obj\Debug\The Wasteland.csproj.AssemblyReference.cache
+E:\Wasteland New Copy\The Wasteland\The Wasteland\obj\Debug\The Wasteland.csproj.SuggestedBindingRedirects.cache
+E:\Wasteland New Copy\The Wasteland\The Wasteland\obj\Debug\The_Wasteland.PlayBoard.resources
+E:\Wasteland New Copy\The Wasteland\The Wasteland\obj\Debug\The_Wasteland.Properties.Resources.resources
+E:\Wasteland New Copy\The Wasteland\The Wasteland\obj\Debug\The Wasteland.csproj.GenerateResource.cache
+E:\Wasteland New Copy\The Wasteland\The Wasteland\obj\Debug\The Wasteland.csproj.CoreCompileInputs.cache
+E:\Wasteland New Copy\The Wasteland\The Wasteland\obj\Debug\The Wasteland.exe
+E:\Wasteland New Copy\The Wasteland\The Wasteland\obj\Debug\The Wasteland.pdb
